@@ -1,5 +1,17 @@
 # Pantry Pirate
 
+* [STARTUP](#startup)
+* [DEMO](#demo)
+  * [Application](#application)
+* [Tools Used](#tools-used)
+* [Documentation](#documentation)
+  * [Team Members](#team-members)
+    * [UML](#uml)
+    * [Wireframe](#wireframe)
+    * [Schema](#schema)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 This is a [group project](https://github.com/PriceFinder/PantryPirate-FE) I participated in at Code Fellows. It is an Expo/React Native app that utilizes smartphone hardware to scan barcodes and retrieve product information from the Amazon API.
 
 ## STARTUP
