@@ -13,7 +13,7 @@ This is a [group project](https://github.com/PriceFinder/PantryPirate-FE) I part
 
 ### Application
 
-Utilizing the Amazon API, we created a mobile application that allows users to scan barcodes and retrieve the item's data to then store either in a shopping list or in their personal pantry. Need to have a shared shopping list or pantry? Our app allows users to add members to either, making it possible to know both what is currently in the  pantry at home while out shopping and also the list of items still  needed.
+Utilizing the Amazon API, we created a mobile application that allows users to scan barcodes and retrieve the item's data to then store either in a shopping list or in their personal pantry. Need to have a shared shopping list or pantry? Our app allows users to add members to either, making it possible to know both what is currently in the pantry at home while out shopping and also the list of items still needed.
 
 ![SignUp](./assets/demo/login1.gif)
 > Implemented password verification at sign-up.
