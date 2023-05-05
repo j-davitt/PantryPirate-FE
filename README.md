@@ -1,42 +1,59 @@
 # Pantry Pirate
 
-## Team Members: 
+This is a [group project](https://github.com/PriceFinder/PantryPirate-FE) I participated in at Code Fellows. It is an Expo/React Native app that utilizes smartphone hardware to scan barcodes and retrieve product information from the Amazon API.
 
-Adrienne Frey, Joe Davitt, Jordan Covington, Jeremy Cleland, Steve Gant
+## STARTUP
 
-## Web Application
+1. Clone the repo
+2. `npm install`
+3. `npx expo start -tunnel`
+4. Scan QR code with your phone utilizing Expo Go
+
+## DEMO
+
+### Application
 
 Utilizing the Amazon API, we created a mobile application that allows users to scan barcodes and retrieve the item's data to then store either in a shopping list or in their personal pantry. Need to have a shared shopping list or pantry? Our app allows users to add members to either, making it possible to know both what is currently in the  pantry at home while out shopping and also the list of items still  needed.
 
-### User Stories
+![SignUp](./assets/demo/login1.gif)
+> Implemented password verification at sign-up.
 
-1. As a family member who rotates who does grocery shopping, I would like to share a shopping list with people in my group to easily send a checklist.
+![Login](./assets/demo/login2.gif)
+> Users can login to access stored data.
 
-2. As a busy homeowner, I want an easy-to-use mobile application to help me keep track of my pantry inventory.
+![Scan](./assets/demo/scan.gif)
+> Users can scan barcodes to retrieve product information from Amazon API.
 
-3. As a busy parent shopping for my family, I want to be able to scan a barcode or input an item by description to add to shopping list. 
+![Amazon](./assets/demo/amazon.gif)
+> Users can view product on Amazon or Google Shopping.
 
-4. As a user I want a mobile application that allows me to find the best deals so that I can save time and money while managing my groceries.
+![Scan2](./assets/demo/scan2.gif)
+> User can add scanned item to list or pantry.
 
-5. As a user, I want a mobile application that allows me to create groups that are able to share shopping lists.
+![List](./assets/demo/list1.gif)
+> Users can view their shopping list and cross off or delete items.
+
+![List2](./assets/demo/list2.gif)
+> Users can view and edit shared lists as well.
+
+![Create](./assets/demo/createList.gif)
+> Users can create new lists and add members.
+
+![Edit](./assets/demo/editList.gif)
+> Users can edit list name and add/remove members as well as delete the list as long as they are the creator of the list.
+
+![Pantry](./assets/demo/pantry.gif)
+> Pantry acts as an inventory system that allows user to add items to a shopping list or delete items from the pantry.
 
 ## Tools Used
 
 React Native, MongoDB, Expo, Axios, Expo Auth, Expo Barecode Scanner, Amazon API, VS Code
 
-## How to Run
-
-1. Clone the repo
-2. `npm install`
-3. `npx expo start`
-4. Scan QR code with your phone or use an emulator
-
-
-## We are deployed on
-
-Render
-
 ## Documentation
+
+### Team Members
+
+Adrienne Frey, Joe Davitt, Jordan Covington, Jeremy Cleland, Steve Gant
 
 #### UML
 
