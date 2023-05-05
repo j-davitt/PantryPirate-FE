@@ -59,7 +59,13 @@ Utilizing the Amazon API, we created a mobile application that allows users to s
 
 ## Tools Used
 
-React Native, MongoDB, Node, Expo, Axios, Expo Barcode Scanner, Amazon API
+* [React Native](https://reactnative.dev/)
+* [Expo](https://expo.io/)
+* [MongoDB](https://www.mongodb.com/)
+* [Node](https://nodejs.org/en/)
+* [Axios](https://www.npmjs.com/package/axios)
+* [Expo Barcode Scanner](https://docs.expo.io/versions/latest/sdk/bar-code-scanner/)
+* [Amazon API](https://rapidapi.com/logicbuilder/api/amazon-product-reviews-keywords/)
 
 ## Documentation
 
