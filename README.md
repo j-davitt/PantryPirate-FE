@@ -59,7 +59,7 @@ Utilizing the Amazon API, we created a mobile application that allows users to s
 
 ## Tools Used
 
-React Native, MongoDB, Expo, Axios, Expo Auth, Expo Barecode Scanner, Amazon API, VS Code
+React Native, MongoDB, Node, Expo, Axios, Expo Barcode Scanner, Amazon API
 
 ## Documentation
 
