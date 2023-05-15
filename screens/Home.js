@@ -24,8 +24,6 @@ export default function HomeScreen({ navigation, route }) {
     }
   }, [route.params]);
 
-  // console.log('validUser ------->>', validUser);
-
   const handleLoginButton = () => {
     // setIsLoggedIn(true);
     navigation.navigate("Login");
